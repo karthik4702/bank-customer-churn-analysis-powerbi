@@ -148,7 +148,7 @@ It showcases complete BI workflow capability—from dataset import to final visu
 
 ---
 
-## 🖼 Dashboard Preview
+
 ## 🖼 Dashboard Preview
 
 ### Page 1 – Customer Overview
@@ -157,7 +157,8 @@ It showcases complete BI workflow capability—from dataset import to final visu
 ### Page 2 – Exit (Churn) Analysis
 ![Dashboard Screenshot 2](DASHBOARD/SCREENSHOT%202.png)
 
-📧 Email: karthik4702@gmail.com
+## 🤝 Feedback & Contact  
 
-Feel free to reach out or open an issue in the repository. 😊
+💼 LinkedIn: [www.linkedin.com/in/karthik4702](https://www.linkedin.com/in/karthik4702)  
+📧 Email: [karthik4702@gmail.com](mailto:karthik4702@gmail.com)
 
