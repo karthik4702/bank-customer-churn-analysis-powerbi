@@ -1,7 +1,5 @@
 # 📊 Bank Customer Churn Analysis Dashboard  
-A fully interactive **Power BI dashboard** designed to analyze customer exit (churn) behavior across demographics, financial indicators, and product usage patterns.  
-Built end-to-end inside **Power BI**, with an Excel dataset as the only data source.  
-All cleaning, modeling, segmentation, KPIs, and visual analytics were developed using **Power Query**, **DAX**, and **Power BI visuals**.
+This project presents a comprehensive Power BI dashboard developed to analyze customer churn behavior in a banking environment. It leverages interactive visual analytics, segmentation models, and DAX-driven KPIs to uncover exit trends, high-risk customer groups, and key behavioral factors influencing churn. All data preparation, modeling, and calculations were performed entirely within Power BI, using an Excel dataset solely as the initial data source.
 
 ---
 
