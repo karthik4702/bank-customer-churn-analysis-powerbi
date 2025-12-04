@@ -57,3 +57,7 @@ Focused on churn behavior & high-risk segments:
 
 ## 📁 Project Structure  
 
+
+## 🎥 Video Explanation (Optional)  
+Upload your explanation video to **YouTube** or **Google Drive**, then link it here:https://drive.google.com/file/d/1V5luQsxd8aaZzRFqXXlOIGJoH2e26nSV/view?usp=drive_link
+
