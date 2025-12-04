@@ -57,7 +57,14 @@ Focused on churn behavior & high-risk segments:
 
 ## 📁 Project Structure  
 
+/DASHBOARD  
+   ├── CHURN ANALYSIS DASHBOARD.pbix  
+   ├── CHURN ANALYSIS DASHBOARD PDF.pdf  
+   ├── SCREENSHOT 1.png  
+   ├── SCREENSHOT 2.png  
 
+/RAW FILES  
+   ├── (Dataset files – Excel source)  
 
 
 ---
@@ -142,15 +149,13 @@ It showcases complete BI workflow capability—from dataset import to final visu
 ---
 
 ## 🖼 Dashboard Preview
+## 🖼 Dashboard Preview
 
-```md
-![Dashboard Preview](readme_assets/preview.gif)
+### Page 1 – Customer Overview
+![Dashboard Screenshot 1](DASHBOARD/SCREENSHOT%201.png)
 
-🤝 Feedback & Contact
-
-This is a portfolio project, and I’m always open to feedback & improvement ideas.
-
-💼 LinkedIn: www.linkedin.com/in/karthik4702
+### Page 2 – Exit (Churn) Analysis
+![Dashboard Screenshot 2](DASHBOARD/SCREENSHOT%202.png)
 
 📧 Email: karthik4702@gmail.com
 
