@@ -157,8 +157,17 @@ It showcases complete BI workflow capability—from dataset import to final visu
 ### Page 2 – Exit (Churn) Analysis
 ![Dashboard Screenshot 2](DASHBOARD/SCREENSHOT%202.png)
 
+---
+
 ## 🤝 Feedback & Contact  
 
 💼 LinkedIn: [www.linkedin.com/in/karthik4702](https://www.linkedin.com/in/karthik4702)  
+
 📧 Email: [karthik4702@gmail.com](mailto:karthik4702@gmail.com)
+
+---
+
+⭐ **If you liked this project or found it helpful, feel free to star the repository or share your feedback.**  
+I’m constantly learning and improving — your support means a lot! 😊
+
 
